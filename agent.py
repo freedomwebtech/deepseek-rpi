@@ -4,7 +4,7 @@ from llama_index.core.llms import ChatMessage, MessageRole
 # Initialize Groq LLM (DeepSeek Model)
 llm = Groq(
     model="deepseek-r1-distill-llama-70b",
-    api_key="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"
+    api_key=""
 )
 
 # Initial system message to set context
